@@ -4,7 +4,9 @@
   </a>
 </div>
 
-![Cris MArtinsa](https://github.com/ismecris/ismecris/assets/104570782/decde7a7-9266-4cfc-b0ca-1ba092fb9e07)
+
+![Cris MArtinsa](https://github.com/user-attachments/assets/fc68f671-2329-49f8-8103-887985c3942c)
+
 
 #
 
@@ -12,7 +14,9 @@
 
 
 #
-<img align="right" alt="" height="280px" src="https://github.com/ismecris/ismecris/assets/104570782/06b910bf-203d-43c0-af41-be57158727a8">
+<img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/dbead81e-7809-49b4-a213-966cc07fd01d">
+
+
 
 
 
