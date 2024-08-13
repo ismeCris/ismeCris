@@ -4,7 +4,7 @@
   </a>
 </div>
 
-![Cris MArtinsa](https://github.com/ismycris/ismycris/assets/104570782/decde7a7-9266-4cfc-b0ca-1ba092fb9e07)
+![Cris MArtinsa](https://github.com/ismecris/ismecris/assets/104570782/decde7a7-9266-4cfc-b0ca-1ba092fb9e07)
 
 #
 
@@ -12,7 +12,7 @@
 
 
 #
-<img align="right" alt="" height="280px" src="https://github.com/ismycris/ismycris/assets/104570782/06b910bf-203d-43c0-af41-be57158727a8">
+<img align="right" alt="" height="280px" src="https://github.com/ismecris/ismecris/assets/104570782/06b910bf-203d-43c0-af41-be57158727a8">
 
 
 
@@ -51,15 +51,15 @@
 
 #
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismycris&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismycris&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismecris&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismecris&layout=compact&theme=tokyonight"/>
 </div>
 
 #
 
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismycris/ismycris/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake.svg">
 </picture>
