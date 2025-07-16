@@ -1,28 +1,26 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D7962B&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0047AB&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG" />
   </a>
 </div>
 
-
-![Cris MArtinsa](https://github.com/user-attachments/assets/9cd9bbd4-c431-465c-aea7-c89cc846d156)
-
+<img width="2000" height="600" alt="Cris MArtinsa (2)" src="https://github.com/user-attachments/assets/a2921ea2-b750-43f4-a577-cae599f6f469" />
 
 #
 <p align="center">
-  💛 Meu nome é Cris e sou desenvolvedora focada em Front-end, em Análise e Desenvolvimento de Sistemas.
+  Meu nome é Cris e sou formada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento Front-end.
 </p>
 
 
 <p align="center">
-  <a href="mailto:cristielythainara@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C0D1B8&color=D7962B" alt="Email">
+  <a href="mailto:cristielythainara@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/-Email-0047AB?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0047AB" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C0D1B8&color=D7962B" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white&color=0047AB" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/0_0cris0_08/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C0D1B8&color=D7962B" alt="Instagram">
+  <a href="https://www.instagram.com/0_0cris0_08/" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-0047AB?style=for-the-badge&logo=instagram&logoColor=white&color=0047AB" alt="Instagram" />
   </a>
 </p>
 
@@ -30,7 +28,7 @@
 
 #
 
-<img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/291d26e6-235a-44d3-a57e-4002710960f2">
+<img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/d49a75ba-7205-4d8f-bb44-d918ed5db7e3" />
 
 
 
