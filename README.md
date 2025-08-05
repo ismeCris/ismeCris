@@ -10,7 +10,7 @@
 
 #
 <p align="center">
-  💛Meu nome é Cris, sou formada em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Analista de Suporte no sistema ERP da Senior.
+  💛My name is Cris, I have a degree in Systems Analysis and Development, and I currently work as a Support Analyst for the Senior ERP system.
 </p>
 
 
