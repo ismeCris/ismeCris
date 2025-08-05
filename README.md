@@ -10,10 +10,10 @@
 
 #
 <p align="center">
-  💛 Meu nome é Cris e sou desenvolvedora focada em Front-end, em Análise e Desenvolvimento de Sistemas.
+  💛Meu nome é Cris, sou formada em Análise e Desenvolvimento de Sistemas e atualmente trabalho como Analista de Suporte no sistema ERP da Senior.
 </p>
 
-<p align="center">I am currently a Software Engineering student at UniAmérica (União das Américas in Foz do Iguaçu). I am interested in both front and back-end development.
+
 
 
 #
@@ -43,23 +43,38 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C0D1B8&color:FFF)](https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C0D1B8&color:FFF)](https://www.instagram.com/0_0cris0_08/)
 
-
 <h3 align="left">My Stack ~</h3>
-@@ -42,30 +50,14 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python logo" />
-</div>
-
-<h3 align="left">Studying in this moment: ~</h3>
 <div align="left">
-<img width="8" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3 logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="25" alt="Bootstrap logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
 </div>
+
+<h3 align="left">Operating Systems ~</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux logo" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="Windows logo" />
+</div>
+
+<h3 align="left">Studying in this moment: ~</h3>
+<div align="left">
+  <span style="font-weight:bold; font-size:16px; vertical-align:middle; margin-right:15px;">Senior ERP</span>
+  <span style="font-weight:bold; font-size:16px; vertical-align:middle;">LSP</span>
+</div>
+
 
 
 #
