@@ -17,7 +17,6 @@
 
 
 #
-<img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/dbead81e-7809-49b4-a213-966cc07fd01d">
 <p align="center">
   <a href="mailto:cristielythainara@gmail.com">
     <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C0D1B8&color=D7962B" alt="Email">
@@ -37,11 +36,7 @@
 <img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/291d26e6-235a-44d3-a57e-4002710960f2">
 
 
-<h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C0D1B8&color:FFF)](mailto:cristielythainara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C0D1B8&color:FFF)](https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C0D1B8&color:FFF)](https://www.instagram.com/0_0cris0_08/)
 
 <h3 align="left">My Stack ~</h3>
 <div align="left">
@@ -87,8 +82,3 @@
 #
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake-light.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ismecris/ismecris/output/github-contribution-grid-snake.svg">
-</picture>
