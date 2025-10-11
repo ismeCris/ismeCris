@@ -1,44 +1,39 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D7962B&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9EE6A0&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
 </div>
 
-
-![Cris MArtinsa](https://github.com/user-attachments/assets/9cd9bbd4-c431-465c-aea7-c89cc846d156)
-
-
 #
+
 <p align="center">
-  💛My name is Cris, I have a degree in Systems Analysis and Development, and I currently work as a Support Analyst for the Senior ERP system.
+  💚 My name is <strong>Cris</strong>. I have a degree in <strong>Systems Analysis and Development</strong> and currently work as a <strong>Junior Support Analyst</strong>, providing support for the <strong>Senior ERP system</strong>.
 </p>
 
-
-
+<p align="center">
+  🌱 I'm constantly learning and improving my skills in <strong>LSP</strong>, <strong>Java</strong>, and <strong>Full Stack Web Development</strong>.  
+  💡 I enjoy solving problems and turning ideas into real solutions through code.
+</p>
 
 #
+
 <p align="center">
   <a href="mailto:cristielythainara@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=C0D1B8&color=D7962B" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9EE6A0&color=003D2E" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=C0D1B8&color=D7962B" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9EE6A0&color=003D2E" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/0_0cris0_08/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=C0D1B8&color=D7962B" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9EE6A0&color=003D2E" alt="Instagram">
   </a>
 </p>
 
-
-
 #
 
-<img align="right" alt="" height="280px" src="https://github.com/user-attachments/assets/291d26e6-235a-44d3-a57e-4002710960f2">
+<img align="right" alt="Cris cat coding" height="280px" src="https://github.com/user-attachments/assets/291d26e6-235a-44d3-a57e-4002710960f2">
 
-
-
-
-<h3 align="left">My Stack ~</h3>
+<h3 align="left"> My Stack</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
   <img width="8" />
@@ -57,28 +52,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
 </div>
 
-<h3 align="left">Operating Systems ~</h3>
+<h3 align="left"> Operating Systems</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux logo" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="Windows logo" />
 </div>
 
-<h3 align="left">Studying in this moment: ~</h3>
+<h3 align="left"> Currently Studying</h3>
 <div align="left">
-  <span style="font-weight:bold; font-size:16px; vertical-align:middle; margin-right:15px;">Senior ERP</span>
-  <span style="font-weight:bold; font-size:16px; vertical-align:middle;">LSP</span>
+  <span style="font-weight:bold; font-size:16px; color:#2F8F6E; vertical-align:middle; margin-right:15px;">Senior ERP</span>
+  <span style="font-weight:bold; font-size:16px; color:#2F8F6E; vertical-align:middle;">LSP</span>
 </div>
 
-
-
 #
+
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismecris&show_icons=true&theme=tokyonight"/>
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismecris&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismecris&show_icons=true&theme=gruvbox_light&title_color=2F8F6E&icon_color=9EE6A0&text_color=003D2E&bg_color=ffffff00"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismecris&layout=compact&theme=gruvbox_light&title_color=2F8F6E&text_color=003D2E&bg_color=ffffff00"/>
 </div>
-
-#
-
-
