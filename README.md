@@ -31,7 +31,8 @@
 
 #
 
-<img align="right" alt="Cris cat coding" height="280px" src="https://github.com/user-attachments/assets/291d26e6-235a-44d3-a57e-4002710960f2">
+
+<img align="right" alt="Cris cat coding" height="280px" src="https://github.com/user-attachments/assets/9409e7ca-4d0b-462f-a566-d383fa9f192d">
 
 <h3 align="left"> My Stack</h3>
 <div align="left">
