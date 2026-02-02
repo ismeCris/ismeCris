@@ -60,11 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="Windows logo" />
 </div>
 
-<h3 align="left"> Currently Studying</h3>
-<div align="left">
-  <span style="font-weight:bold; font-size:16px; color:#2F8F6E; vertical-align:middle; margin-right:15px;">Senior ERP</span>
-  <span style="font-weight:bold; font-size:16px; color:#2F8F6E; vertical-align:middle;">LSP</span>
-</div>
 
 #
 
