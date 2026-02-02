@@ -62,8 +62,3 @@
 
 
 #
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismecris&show_icons=true&theme=gruvbox_light&title_color=2F8F6E&icon_color=9EE6A0&text_color=003D2E&bg_color=ffffff00"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismecris&layout=compact&theme=gruvbox_light&title_color=2F8F6E&text_color=003D2E&bg_color=ffffff00"/>
-</div>
