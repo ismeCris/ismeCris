@@ -1,5 +1,3 @@
-Coloca TUDO dentro de um div align="center":
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00cc66&height=120&section=header"/>
