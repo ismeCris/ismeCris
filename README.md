@@ -1,64 +1,57 @@
+Coloca TUDO dentro de um div align="center":
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9EE6A0&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
 
-#
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00cc66&height=120&section=header"/>
+
+# 💚 Welcome to my profile!
+
+<table>
+<tr>
+<td width="40%">
+<img src="https://github.com/user-attachments/assets/49b699b6-c0ad-4967-b357-d35185775213" width="260px"/>
+</td>
+
+<td width="60%">
+
+## 💚 About Me
+Hi! My name is **Cris** 👋  
+🎓 Systems Analysis and Development  
+💼 Junior Support Analyst (ERP Senior)  
+
+🌱 Currently learning:
+- LSP  
+- Python
+
+💡 I love solving problems and building real solutions with code.
+
+---
+
+## 🎓 Education
+- Systems Analysis and Development
+
+## 💼 Experience
+- ERP Support (Senior System)
+
+## 🧠 Skills
+- Java ☕
+- LSP
+- Python
+- C,C#
+- HTML, CSS, JS 🌐  
+- SQL 🗄️  
+- Spring Boot 🌱  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Contact
 
 <p align="center">
-  💚 My name is <strong>Cris</strong>. I have a degree in <strong>Systems Analysis and Development</strong> and currently work as a <strong>Junior Support Analyst</strong>, providing support for the <strong>Senior ERP system</strong>.
+  <a href="mailto:cristielythainara@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com">LinkedIn</a> •
+  <a href="https://www.instagram.com">Instagram</a>
 </p>
-
-<p align="center">
-  🌱 I'm constantly learning and improving my skills in <strong>LSP</strong>, <strong>Java</strong>, and <strong>Full Stack Web Development</strong>.  
-  💡 I enjoy solving problems and turning ideas into real solutions through code.
-</p>
-
-#
-
-<p align="center">
-  <a href="mailto:cristielythainara@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9EE6A0&color=003D2E" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/cristiely-tainara-da-silva-martins-30345a307/">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9EE6A0&color=003D2E" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/0_0cris0_08/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9EE6A0&color=003D2E" alt="Instagram">
-  </a>
-</p>
-
-#
-
-
-<img align="right" alt="Cris cat coding" height="280px" src="https://github.com/user-attachments/assets/9409e7ca-4d0b-462f-a566-d383fa9f192d">
-
-<h3 align="left"> My Stack</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="Java logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="HTML5 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="CSS3 logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="25" alt="Bootstrap logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="JavaScript logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="MySQL logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="Spring Boot logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo" />
-</div>
-
-<h3 align="left"> Operating Systems</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux logo" />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="25" alt="Windows logo" />
-</div>
-
-
-#
