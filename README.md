@@ -5,10 +5,6 @@
 # 💚 Welcome to my profile!
 
 <table>
-<tr>
-<td width="40%">
-<img src="https://github.com/user-attachments/assets/49b699b6-c0ad-4967-b357-d35185775213" width="260px"/>
-</td>
 
 <td width="60%">
 
