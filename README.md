@@ -1,51 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:00cc66&height=120&section=header"/>
-
-# 💚 Welcome to my profile!
-
-<table>
-
-<td width="60%">
-
-## 💚 About Me
-Hi! My name is **Cris** 👋  
-🎓 Systems Analysis and Development  
-💼 Junior Support Analyst (ERP Senior)  
-
-🌱 Currently learning:
-- LSP  
-- Python
-
-💡 I love solving problems and building real solutions with code.
-
----
-
-## 🎓 Education
-- Systems Analysis and Development
-
-## 💼 Experience
-- ERP Support (Senior System)
-
-## 🧠 Skills
-- Java ☕
-- LSP
-- Python
-- C,C#
-- HTML, CSS, JS 🌐  
-- SQL 🗄️  
-- Spring Boot 🌱  
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌍 Contact
+<h1> Olá, eu sou a Cris 👋 </h1>
 
 <p align="center">
-  <a href="mailto:cristielythainara@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com">LinkedIn</a> •
-  <a href="https://www.instagram.com">Instagram</a>
+  <img src="https://img.shields.io/badge/Cargo-Analista%20de%20Suporte%20Júnior-00ff99?style=flat-square" alt="Cargo">
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-blue?style=flat-square" alt="Foco">
+</p>
+
+</div>
+
+---
+
+## 💻 Sobre Mim
+Atualmente trabalho como **Analista de Suporte Júnior**, atuando diretamente com o ecossistema **ERP Senior**. No meu dia a dia, foco em entender as regras de negócio e como a tecnologia pode otimizar processos através de suporte técnico e análise de sistemas.
+
+Dedico meus estudos ao Desenvolvimento de Software, com foco em criar soluções práticas para problemas reais e no constante aprimoramento técnico.
+
+
+* 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
+* 🌱 **Estudando no momento:** Linguagem **LSP** (Senior) e **Python**.
+* 🛠️ **No que trabalho:** Suporte técnico, análise de logs, melhorias personalizadas e suporte ao ERP Senior.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens Base** | `Java`, `Python`, `C#`, `C`, `JavaScript` |
+| **Web & Backend** | `Spring Boot`, `HTML`, `CSS`, `Node.js` |
+| **Banco de Dados** | `SQL Server`, `MySQL` |
+| **Ferramentas** | `Git`, `VS Code`, `ERP Senior (LSP)` |
+
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/ismecris?theme=dark&config=config.json">
+  <img alt="Linguagens Mais Usadas" src="https://github-used-languages.vercel.app/ismecris?config=config.json" height="250px">
+</picture>
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:cristielythainara@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/cristiely-thainara">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
 </p>
