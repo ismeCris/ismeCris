@@ -1,55 +1,82 @@
-<div align="center">
+### Olá, eu sou a Cris 👋
 
-<h1> Olá, eu sou a Cris 👋 </h1>
+<img src="https://img.shields.io/static/v1?label=Overview&message=ISMECRIS&color=0d1117&style=for-the-badge&logo=GitHub" alt="GitHub Overview">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cargo-Analista%20de%20Suporte%20Júnior-00ff99?style=flat-square" alt="Cargo">
-  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Software-blue?style=flat-square" alt="Foco">
+<p>
+💼 Trabalhando como <strong>Analista de Suporte Júnior</strong><br/>
+🚀 Focada em <strong>Desenvolvimento Backend</strong><br/>
+📚 Estudando <strong>LSP (Senior)</strong> e <strong>Python</strong>
 </p>
 
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de computador" min-width="350px" max-width="350px" width="350px" align="right">
+
+<p align="left"> 
+Tenho foco em desenvolvimento backend, automações e soluções práticas voltadas para problemas reais de negócio. Estou sempre buscando evoluir tecnicamente através de estudos e projetos pessoais.
+</p>
 
 ---
 
-## 💻 Sobre Mim
-Atualmente trabalho como **Analista de Suporte Júnior**, atuando diretamente com o ecossistema **ERP Senior**. No meu dia a dia, foco em entender as regras de negócio e como a tecnologia pode otimizar processos através de suporte técnico e análise de sistemas.
+<p align="left">
+  💌 Contato: ⤵️
+</p>
 
-Dedico meus estudos ao Desenvolvimento de Software, com foco em criar soluções práticas para problemas reais e no constante aprimoramento técnico.
-
-
-* 🎓 **Formação:** Análise e Desenvolvimento de Sistemas.
-* 🌱 **Estudando no momento:** Linguagem **LSP** (Senior) e **Python**.
-* 🛠️ **No que trabalho:** Suporte técnico, análise de logs, melhorias personalizadas e suporte ao ERP Senior.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-| Área | Tecnologias |
-| :--- | :--- |
-| **Linguagens Base** | `Java`, `Python`, `C#`, `C`, `JavaScript` |
-| **Web & Backend** | `Spring Boot`, `HTML`, `CSS`, `Node.js` |
-| **Banco de Dados** | `SQL Server`, `MySQL` |
-| **Ferramentas** | `Git`, `VS Code`, `ERP Senior (LSP)` |
-
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/ismecris?theme=dark&config=config.json">
-  <img alt="Linguagens Mais Usadas" src="https://github-used-languages.vercel.app/ismecris?config=config.json" height="250px">
-</picture>
-
-## 📬 Contato
-
-<p align="center">
-  <a href="mailto:cristielythainara@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="mailto:cristielythainara@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/cristiely-thainara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/cristiely-thainara" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+
+  <a href="https://github.com/ismecris" title="GitHub">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+<p>
+  
+</p>
+
+## Minhas Skills
+
+### 🚀 Aplicações e Dados
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=springboot)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQL Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+
+---
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
+
+### 💼 Experiência de trabalho
+
+<img align="left" height="94px" width="94px" alt="ERP Senior" src="https://github.com/user-attachments/assets/7b342a1d-f1f5-4673-97cf-e241c1a9d295" />
+
+**Analista de Suporte Júnior** \
+**ERP Senior** • Atual \
+Linguagens & Tecnologias: `LSP`, `SQL`, `ERP Senior`, `Suporte Técnico`, `Análise de Sistemas` \
+Atividades: suporte técnico, análise de logs, personalizações e melhorias em processos internos.
+
+<br/>
+
