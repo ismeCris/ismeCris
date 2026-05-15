@@ -68,6 +68,30 @@ Tenho foco em desenvolvimento backend, automações e soluções práticas volta
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ---
+---
+
+### 🎓 Formação Acadêmica
+
+<div align="left">
+  <img align="left" height="90px" src="https://github.com/user-attachments/assets/13032bd6-01c3-43ca-8b13-a149a3f67408"/>
+
+  <div>
+    <strong>Pós-graduação em Engenharia de Software</strong><br/>
+    Descomplica Faculdade Digital • Em andamento
+  </div>
+</div>
+
+<br/><br/><br/>
+
+<div align="left">
+  <img align="left" height="90px" src="https://github.com/user-attachments/assets/f74d0e02-a884-45e7-a5fb-d18439a02b70"/>
+
+  <div>
+    <strong>Análise e Desenvolvimento de Sistemas</strong><br/>
+    Uniamerica • Concluído
+  </div>
+</div>
+<br/><br/><br/>
 
 ### 💼 Experiência de trabalho
 
