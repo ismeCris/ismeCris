@@ -93,14 +93,5 @@ Tenho foco em desenvolvimento backend, automações e soluções práticas volta
 </div>
 <br/><br/><br/>
 
-### 💼 Experiência de trabalho
-
-<img align="left" height="94px" width="94px" alt="ERP Senior" src="https://github.com/user-attachments/assets/7b342a1d-f1f5-4673-97cf-e241c1a9d295" />
-
-**Analista de Suporte Júnior** \
-**ERP Senior** • Atual \
-Linguagens & Tecnologias: `LSP`, `SQL`, `ERP Senior`, `Suporte Técnico`, `Análise de Sistemas` \
-Atividades: suporte técnico, análise de logs, personalizações e melhorias em processos internos.
-
 <br/>
 
